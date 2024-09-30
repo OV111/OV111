@@ -20,6 +20,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<Your_LeetCode_Username>)
+
 
 <!--
 **OV111/OV111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
