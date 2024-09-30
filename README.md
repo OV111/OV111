@@ -1,5 +1,12 @@
 ## Hi, I'm Vahe Ohanyan👋
 
+👯 I’m looking to collaborate on Web-Development Projects
+
+👨‍💻 All of my projects are available at [GitHub](https://github.com/OV111)
+
+📫 How to reach me [Email Me](ohanyanv703@gmail.com)
+
+📄 Know about my experiences Click Here [Link text] (s)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
