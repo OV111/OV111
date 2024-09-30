@@ -1,6 +1,6 @@
 ## Hi, I'm Vahe Ohanyan👋
 
-🌱 I’m currently learning Full Stack Development:
+🌱 I’m currently learning Full Stack Development going forward with my goals:
 
 👯 I’m looking to collaborate on Web-Development Projects:
 
