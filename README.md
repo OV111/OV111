@@ -1,9 +1,13 @@
 ## Hi, I'm Vahe Ohanyan👋
 
 🌱 I’m currently learning Full Stack Development:
+
 👯 I’m looking to collaborate on Web-Development Projects:
+
 👨‍💻 All of my projects are available at this [GitHub](https://github.com/OV111) Link:
+
 📫 How to reach me [Email Me](ohanyanv703@gmail.com):
+
 📄 Know about my experiences Click Here [Link text] (s):
 
 ## Languages and Tools:
