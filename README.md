@@ -19,6 +19,13 @@
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
+[![REST API](https://img.shields.io/badge/-REST_API-black?style=flat-square)](https://restfulapi.net/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)](https://graphql.org/)
+[![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=FF6C37)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger&logoColor=85EA2D)](https://swagger.io/)
+[![OpenAPI](https://img.shields.io/badge/-OpenAPI-black?style=flat-square&logo=openapi&logoColor=8C8C8C)](https://www.openapis.org/)
+
+
 ## LeetCode Stats
 
 ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<Vahe_1>)
