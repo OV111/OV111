@@ -1,4 +1,4 @@
-## Hi, I'm Vahe Ohanyan👋
+## Hi, I'm Vahe 👋
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
