@@ -20,9 +20,6 @@
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/<Vahe_1>)
 
 
 
