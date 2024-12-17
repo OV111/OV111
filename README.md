@@ -2,9 +2,7 @@
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
-👯 I’m looking to collaborate on Web-Development Projects:
-
-👨‍💻 All of my projects are available at this [GitHub](https://github.com/OV111) Link:
+👨‍💻 I’m looking to collaborate on Web-Development Projects:
 
 📫 How to reach me [Email Me](ohanyanv703@gmail.com):
 
