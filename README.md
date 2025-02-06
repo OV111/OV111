@@ -4,7 +4,7 @@
 
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
 
-📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) [LinkedIn](https://www.linkedin.com/in/vahe-ohanyan-352165328/):
+📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox),  [LinkedIn](https://www.linkedin.com/in/vahe-ohanyan-352165328/):
 
 📄 Know about my experiences Click Here [Link text] (s):
 
