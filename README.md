@@ -5,7 +5,7 @@
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
 
 
-📫 How to reach me  <p align="center">[![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox):</p>
+<p align="center">📫 How to reach me [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox):</p>
 
 
 📄 Know about my experiences Click Here [Link text] (s):
