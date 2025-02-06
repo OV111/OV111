@@ -5,11 +5,7 @@
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
 
 📫 How to reach me:
-<p align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    ![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)
-  </a>
-</p>
+![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)
 
 📄 Know about my experiences Click Here [Link text] (s):
 
