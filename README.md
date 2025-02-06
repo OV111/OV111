@@ -6,8 +6,11 @@
 
 <p align="center">
   📫 How to reach me 
-  [![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox):
+  <a href="https://mail.google.com/mail/u/0/#inbox">
+    ![Gmail](https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white)
+  </a>
 </p>
+
 
 
 📄 Know about my experiences Click Here [Link text] (s):
