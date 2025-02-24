@@ -6,7 +6,8 @@
 
 📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  [LinkedIn](https://www.linkedin.com/in/vahe-ohanyan-352165328/):
 
-📄 Know about my experiences Click Here [Link text] (s):
+📄 Know about my experiences Click Here [📄 View My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf):
+
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
