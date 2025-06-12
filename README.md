@@ -7,6 +7,7 @@
 📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  [LinkedIn](https://www.linkedin.com/in/vahe-ohanyan-352165328/):
 
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf):
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 
 ## Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -16,7 +17,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 <!--![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)-->
 <!--![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
