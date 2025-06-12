@@ -6,7 +6,7 @@
 
 📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  [LinkedIn](https://www.linkedin.com/in/vahe-ohanyan-352165328/):
 
-📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): \n
+📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 
