@@ -1,4 +1,4 @@
-# Hi, I'm Vahe 👋
+<h1 align="center">Hi, I'm Vahe 👋</h1>
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
@@ -31,6 +31,9 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
+
+
+
 
 <!--<div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
