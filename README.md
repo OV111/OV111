@@ -24,6 +24,7 @@
 
 <!--![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+
 <div style="text-align: center;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
