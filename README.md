@@ -32,7 +32,6 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
-
 <!--<div style="text-align: center;">
   <div style="display: inline-block; height: 100%;">
     <picture>
