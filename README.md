@@ -3,7 +3,6 @@
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
-
 📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
