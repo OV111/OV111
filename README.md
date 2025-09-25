@@ -5,7 +5,7 @@
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
 
 📫 How to reach me [Gmail](https://mail.google.com/mail/u/0/#inbox) ,  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 
