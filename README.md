@@ -1,4 +1,4 @@
-<h1 align="center" margin-bottom="10px">Hi, I'm Vahe 👋</h1>
+<h1 align="center" className="text-2xl" margin-bottom="10px">Hi, I'm Vahe 👋</h1>
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
