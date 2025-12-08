@@ -3,6 +3,7 @@
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
+
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <span>📫 <b>How to reach me:</b></span>
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
