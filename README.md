@@ -13,7 +13,6 @@
   </a>
 </div>
 
-
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
