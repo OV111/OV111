@@ -8,7 +8,7 @@
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 
-# 💻 Languages and Tools
+## 💻 Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -36,10 +36,13 @@
   </div>
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
+<div>
+  
 ![](https://github-readme-stats.vercel.app/api?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -52,5 +55,3 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=OV111&icon=0&color=0)](https://visitcount.itsvg.in)
