@@ -1,4 +1,4 @@
-<h1 align="center" margin-bottom="10px"width="30px"> Hi, I'm Vahe <img src="https://raw.githubusercontent.com/your-username/your-repo/main/waving-hand.gif"></h1>
+<h1 align="center" margin-bottom="10px" width="30px"> Hi, I'm Vahe <img src="https://raw.githubusercontent.com/your-username/your-repo/main/waving-hand.gif"/></h1>
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
