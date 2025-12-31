@@ -1,4 +1,20 @@
-<h1 align="center" className="text-2xl" margin-bottom="10px">Hi, I'm Vahe 👋</h1>
+<h1 align="center" className="text-2xl" margin-bottom="10px">Hi, I'm Vahe <span class="hand">👋</span></h1>
+<style>
+.hand {
+  display: inline-block;
+  animation: shake 0.5s infinite;
+  transform-origin: 70% 70%;
+}
+
+@keyframes shake {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(15deg); }
+  40% { transform: rotate(-10deg); }
+  60% { transform: rotate(15deg); }
+  80% { transform: rotate(-10deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
