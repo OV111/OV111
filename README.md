@@ -23,7 +23,7 @@
 <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
-<div style="display: grid; align-items: center; justify-content: start; gap: 10px; flex-wrap: wrap;">
+<div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
   <span>📫 <b>How to reach me:</b></span>
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
