@@ -25,12 +25,15 @@
 
 <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
   <span>📫 <b>How to reach me:</b></span>
+  <div>
+    
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  </div>
 </div>
 
 <div style="text-align: center;">
