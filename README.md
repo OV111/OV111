@@ -5,10 +5,16 @@
 👨‍💻 I’m looking to collaborate on Web-Development Projects:
   
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OV111&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&layout=compact&theme=dracula)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OV111&show_icons=true&theme=dracula&cache_seconds=86400)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=OV111&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 ## 💻 Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
