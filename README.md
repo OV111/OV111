@@ -7,7 +7,8 @@
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
-## 💻 Languages and Tools
+
+# 💻 Languages and Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -22,6 +23,7 @@
 
 <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
+
 ## 📫 How to reach me
 <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
   <div>
@@ -33,6 +35,7 @@
   </a>
   </div>
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=dark&hide_border=false)<br/>
