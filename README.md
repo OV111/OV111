@@ -1,11 +1,11 @@
-<h1 align="center" margin-bottom="10px" width="30px"> Hi, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+# <h1 align="center" margin-bottom="10px" width="30px"> Hi, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
 ### 🌱 I’m currently learning Full Stack Development going forward with my goals:
 
-#### 👨‍💻 I’m looking to collaborate on Web-Development Projects:
+### 👨‍💻 I’m looking to collaborate on Web-Development Projects:
   
-📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
+### 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 
