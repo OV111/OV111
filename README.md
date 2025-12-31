@@ -25,11 +25,10 @@
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
 ## 🌐 How to reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-ohanyan-352165328/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ohanyanv703)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ohanyanv703@gmail.com)
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)] 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
 <!-- <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
   <div>
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
