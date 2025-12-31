@@ -22,9 +22,8 @@
 
 <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
-
+## 📫 How to reach me:
 <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
-  <span>📫 <b>How to reach me:</b></span>
   <div>
     
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
