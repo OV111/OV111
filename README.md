@@ -24,8 +24,9 @@
 <!--![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)-->
 <!--![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) -->
 
-## 📫 How to reach me
-<div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
+## 🌐 How to reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vahe-ohanyan-352165328/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ohanyanv703) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ohanyanv703@gmail.com) 
+<!-- <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
   <div>
   <a href="mailto:vaheohanyan@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -34,19 +35,21 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   </div>
-</div>
+</div> -->
 
 ## 📊 GitHub Stats:
 <div>
-  
-![](https://github-readme-stats.vercel.app/api?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <div>
+  ![](https://github-contributor-stats.vercel.app/api?username=OV111&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  </div>
+![](https://github-readme-stats.vercel.app/api?username=OV111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 
 <div style="text-align: center;">
   <picture>
@@ -55,3 +58,10 @@
     <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
   </picture>
 </div>
+
+
+# 📊 GitHub Stats:
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=OV111&limit=5&theme=dark&combine_all_yearly_contributions=true)
