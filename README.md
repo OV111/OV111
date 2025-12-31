@@ -7,6 +7,7 @@
 📄 Know about my experiences Click Here [My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf): 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OV111&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OV111&show_icons=true&theme=dracula&cache_seconds=86400)
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=OV111)
 ## 💻 Languages and Tools
