@@ -1,4 +1,4 @@
-<h1 align="center" margin-bottom="10px" width="30px"> Hi, I'm Vahe <img src="https://raw.githubusercontent.com/OV111/your-repo/main/waving-hand.gif" width="30px" />
+<h1 align="center" margin-bottom="10px" width="30px"> Hi, I'm Vahe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
 </h1>
 
 🌱 I’m currently learning Full Stack Development going forward with my goals:
@@ -30,17 +30,6 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ohanyanv703)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ohanyanv703@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/yourusername)
-
-<!-- <div style="display: grid; align-items: center; justify-content: start; gap: 10px;">
-  <div>
-  <a href="mailto:vaheohanyan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  </div>
-</div> -->
 
 ## 📊 GitHub Stats:
 
