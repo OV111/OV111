@@ -33,11 +33,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white)](https://t.me/yourusername)
 
 ## 📊 GitHub Stats:
-
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=OV111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+-->
 ![](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=github_dark&hide_border=false)<br/>
+<!-- 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
 
 
 <!--![github contribution grid snake animation](https://raw.githubusercontent.com/BraveTiger0408/BraveTiger0408/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
