@@ -8,9 +8,14 @@
 
 <br/>
 
+## 💼 Experience
+
+**Full-Stack Developer @ Optimum Partners** *(Nov 2025 — Present)*
+Building reusable UI components with **TypeScript** and **Material UI**, implementing responsive layouts, and working on server-side services with **Go (Golang)** following clean architecture patterns.
+
 ## 🌱 Currently Learning
 
-Deepening my skills across the full stack — from building scalable back-end services with **Express.js** and **Go** to crafting polished, responsive UIs with **React** and **TypeScript**. Always exploring new tools and best practices to grow as an engineer.
+Expanding my backend skills with **Go** — working on server-side services and clean architecture patterns. Also deepening my knowledge of decentralized systems, smart contracts, and blockchain development to combine my engineering and finance background.
 
 ## 👨‍💻 Looking to Collaborate
 
@@ -43,6 +48,8 @@ Check out my experiences → [View My Resume](https://github.com/OV111/cvv/raw/m
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-ohanyan-352165328/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ohanyanv703)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe1O)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vahe_1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohanyanv703@gmail.com)
 
 ---
