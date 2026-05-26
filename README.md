@@ -8,26 +8,26 @@
 
 <br/>
 
-## 💼 Experience
+## ⚡ Experience
 
 **Full-Stack Developer @ Optimum Partners** *(Nov 2025 — Present)*
 Building reusable UI components with **TypeScript** and **Material UI**, implementing responsive layouts, and working on server-side services with **Go (Golang)** following clean architecture patterns.
 
-## 🌱 Currently Learning
+## 🚀 Currently Learning
 
 Expanding my backend skills with **Go** — working on server-side services and clean architecture patterns. Also deepening my knowledge of decentralized systems, smart contracts, and blockchain development to combine my engineering and finance background.
 
-## 👨‍💻 Looking to Collaborate
+## 💡 Looking to Collaborate
 
 I'm open to collaborating on **web development projects** — whether it's building something from scratch, contributing to open source, or improving an existing product. If you have an interesting idea, let's build it together.
 
-## 📄 Resume
+## 🗂️ Resume
 
 Check out my experiences → [View My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf)
 
 ---
 
-## 💻 Languages & Tools
+## 🛠️ Languages & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,7 +44,7 @@ Check out my experiences → [View My Resume](https://github.com/OV111/cvv/raw/m
 
 ---
 
-## 🌐 Connect with Me
+## 📡 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-ohanyan-352165328/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ohanyanv703)
@@ -54,11 +54,20 @@ Check out my experiences → [View My Resume](https://github.com/OV111/cvv/raw/m
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=OV111&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=OV111&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=OV111&theme=github_dark&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OV111&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&layout=compact&theme=github_dark&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OV111&theme=github_dark&hide_border=false" />
+</p>
 
 ---
 
