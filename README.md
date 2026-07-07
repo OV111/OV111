@@ -6,7 +6,6 @@
   <b>Blockchain Developer &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Minded</b>
 </p>
 
-
 <br/>
 
 ## ⚡ Experience
