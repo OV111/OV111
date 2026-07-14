@@ -7,7 +7,6 @@
 </p>
 
 <br/>
-
 ## ⚡ Experience
 
 **Full-Stack Developer @ Optimum Partners** *(Nov 2025 — Present)*
