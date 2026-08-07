@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  Right now, I'm building <b>DevsWebs</b>, a developer learning platform, from the ground up — architecture, features, and product decisions all on my own. That's shaped how I think: not just as an engineer solving technical problems, but as someone accountable for how a product works end to end. It's also pulled me toward the startup world, where I can move fast, own outcomes, and build things that matter.
-</p>
-
-<p align="center">
   I'm looking for opportunities to join a team — or build something new — where I can contribute to meaningful products and keep growing as an engineer. If you're hiring, building, or just want to connect, feel free to reach out.
 </p>
 
@@ -31,11 +27,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ---
 
@@ -61,7 +57,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=OV111&theme=github_dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=OV111&theme=github-dark&hide_border=false" />
 </p>
 
 ---
