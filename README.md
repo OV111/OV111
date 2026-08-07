@@ -1,28 +1,24 @@
-<h1 align="center">
-  Hi, I'm Vahe &nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
-</h1>
+<h1 align="center">Hi, I'm Vahe 👋</h1>
 
 <p align="center">
-  <b>Blockchain Developer &nbsp;·&nbsp; Full Stack Engineer &nbsp;·&nbsp; Startup Minded</b>
+  <b>Full-Stack Developer &nbsp;·&nbsp; Finance Background &nbsp;·&nbsp; Moving into Blockchain</b>
 </p>
 
-<br/>
-## ⚡ Experience
+<p align="center">
+  I'm a full-stack developer with a finance degree — a combination that gives me both the technical skills to build software and the analytical mindset to understand the business behind it. I'm now moving toward blockchain development, focused on writing clean, maintainable code and building products that hold up long-term, not just at launch.
+</p>
 
-**Full-Stack Developer @ Optimum Partners** *(Nov 2025 — Present)*
-Building reusable UI components with **TypeScript** and **Material UI**, implementing responsive layouts, and working on server-side services with **Go (Golang)** following clean architecture patterns.
+<p align="center">
+  Right now, I'm building <b>DevsWebs</b>, a developer learning platform, from the ground up — architecture, features, and product decisions all on my own. That's shaped how I think: not just as an engineer solving technical problems, but as someone accountable for how a product works end to end. It's also pulled me toward the startup world, where I can move fast, own outcomes, and build things that matter.
+</p>
 
-## 🚀 Currently Learning
+<p align="center">
+  I'm looking for opportunities to join a team — or build something new — where I can contribute to meaningful products and keep growing as an engineer. If you're hiring, building, or just want to connect, feel free to reach out.
+</p>
 
-Expanding my backend skills with **Go** — working on server-side services and clean architecture patterns. Also deepening my knowledge of decentralized systems, smart contracts, and blockchain development to combine my engineering and finance background.
-
-## 💡 Looking to Collaborate
-
-I'm open to collaborating on **web development projects** — whether it's building something from scratch, contributing to open source, or improving an existing product. If you have an interesting idea, let's build it together.
-
-## 🗂️ Resume
-
-Check out my experiences → [View My Resume](https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf)
+<p align="center">
+  <a href="https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf">📄 Resume</a>
+</p>
 
 ---
 
