@@ -4,6 +4,7 @@
   <b>Full-Stack Developer &nbsp;·&nbsp; Finance Background &nbsp;·&nbsp; Moving into Blockchain</b>
 </p>
 
+
 <p align="center">
   I'm a full-stack developer with a finance degree — a combination that gives me both the technical skills to build software and the analytical mindset to understand the business behind it. I'm now moving toward blockchain development, focused on writing clean, maintainable code and building products that hold up long-term, not just at launch.
 </p>
