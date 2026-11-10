@@ -1,72 +1,57 @@
-<h1 align="center">Hi, I'm Vahe 👋</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
+  <img src="./assets/banner-dark.svg" alt="Vahe Ohanyan. Full-Stack Developer, Finance Background, Moving into Blockchain. Yerevan, Armenia" width="100%" />
+</picture>
 
 <p align="center">
-  <b>Full-Stack Developer &nbsp;·&nbsp; Finance Background &nbsp;·&nbsp; Moving into Blockchain</b>
-</p>
-
-<p align="center">
-  I'm a full-stack developer with a finance degree — a combination that gives me both the technical skills to build software and the analytical mindset to understand the business behind it. I'm now moving toward blockchain development, focused on writing clean, maintainable code and building products that hold up long-term, not just at launch.
-</p>
-
-<p align="center">
-  I'm looking for opportunities to join a team — or build something new — where I can contribute to meaningful products and keep growing as an engineer. If you're hiring, building, or just want to connect, feel free to reach out.
-</p>
-
-<p align="center">
-  <a href="https://github.com/OV111/cvv/raw/main/Vahe%20Ohanyan_CV.pdf">📄 Resume</a>
+  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@ohanyanv703"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://t.me/Vahe1O"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://leetcode.com/u/Vahe_1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:ohanyanv703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## About
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+I build full-stack web products with TypeScript, React, and Node.js, and I hold a degree in finance. That mix lets me write the software and understand the business it serves.
 
----
+I'm now moving into blockchain development, where both sides meet. I care about clean, maintainable code and products that hold up long after launch.
 
-## 📡 Connect with Me
+**Open to opportunities.** If you're hiring, building something, or just want to talk, [email me](mailto:ohanyanv703@gmail.com) or message me on [Telegram](https://t.me/Vahe1O).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahe-ohanyan-352165328/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ohanyanv703)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vahe1O)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Vahe_1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ohanyanv703@gmail.com)
+## Featured Projects
 
----
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Vahoha](https://github.com/OV111/Vahoha)** · [live](https://vahoha.com) | A development platform I'm building and running in production. | JavaScript |
+| **[Stoxly](https://github.com/OV111/Stoxly)** | Real-time stock market platform with live price streaming, smart alerts, interactive charts, AI insights, and market news. | Next.js, TypeScript, Better Auth, Inngest |
+| **[Writ](https://github.com/OV111/Writ)** | Authorisation layer for agent-to-agent payments: a policy engine that gates x402 transactions before they're signed. | Solidity |
 
-## 🔥 GitHub Stats
+## Tech Stack
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=OV111&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OV111&show_icons=true&theme=github_dark&hide_border=false&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OV111&layout=compact&theme=github_dark&hide_border=false" height="170" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat-square)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=OV111&theme=github-dark&hide_border=false" />
-</p>
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/otaviossousa/otaviossousa/blob/output/ocean.gif" />
-  </picture>
-</div>
+**Backend & Tools**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
