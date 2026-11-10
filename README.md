@@ -5,11 +5,11 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@ohanyanv703"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://t.me/Vahe1O"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://leetcode.com/u/Vahe_1"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:ohanyanv703@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vahe-ohanyan-352165328/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/linkedin-light.svg" /><img src="./assets/social/linkedin-dark.svg" alt="LinkedIn" height="36" /></picture></a>
+  <a href="https://medium.com/@ohanyanv703"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/medium-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/medium-light.svg" /><img src="./assets/social/medium-dark.svg" alt="Medium" height="36" /></picture></a>
+  <a href="https://t.me/Vahe1O"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/telegram-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/telegram-light.svg" /><img src="./assets/social/telegram-dark.svg" alt="Telegram" height="36" /></picture></a>
+  <a href="https://leetcode.com/u/Vahe_1"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/leetcode-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/leetcode-light.svg" /><img src="./assets/social/leetcode-dark.svg" alt="LeetCode" height="36" /></picture></a>
+  <a href="mailto:ohanyanv703@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/social/email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/social/email-light.svg" /><img src="./assets/social/email-dark.svg" alt="Email" height="36" /></picture></a>
 </p>
 
 ---
@@ -30,7 +30,7 @@ I'm now moving into blockchain development, where both sides meet. I care about 
 | **[Stoxly](https://github.com/OV111/Stoxly)** | Real-time stock market platform with live price streaming, smart alerts, interactive charts, AI insights, and market news. | Next.js, TypeScript, Better Auth, Inngest |
 | **[Writ](https://github.com/OV111/Writ)** | Authorisation layer for agent-to-agent payments: a policy engine that gates x402 transactions before they're signed. | Solidity |
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
